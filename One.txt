@@ -1,3 +1,7 @@
 Hello Git	
 This is a second line of text and paragraph
 
+Making changes to understnd the modified statyus
+
+THis is a second line
+
